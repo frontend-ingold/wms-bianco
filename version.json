@@ -4,16 +4,23 @@
     "force_update": false,
     "maintenance_mode": false,
     "android_store_url": "https://play.google.com/store/apps/details?id=com.wmsbianco",
-    "log_active":true
+    "log_active":true,
+    "log_url": "https://in.logtail.com",
+    "log_auth": "Bearer tdmqMaAPgEakGn54oi6PkCNg"
+
   },
   "ios": {
     "latest_version": "1.0.1",
     "force_update": true,
     "maintenance_mode": false,
     "ios_store_url": "https://play.google.com/store/apps/details?id=com.wmsbianco12",
-    "log_active":true
+    "log_active":true,
+    "log_url": "https://in.logtail.com",
+    "log_auth": "Bearer tdmqMaAPgEakGn54oi6PkCNg"
+
   }
 }
+
 
 
 
