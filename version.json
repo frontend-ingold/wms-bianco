@@ -1,7 +1,7 @@
 {
   "android": {
-    "latest_version": "1.0.2",
-    "force_update": true,
+    "latest_version": "1.0.0",
+    "force_update": false,
     "maintenance_mode": false,
     "android_store_url": "https://play.google.com/store/apps/details?id=com.wmsbianco"
   },
@@ -12,6 +12,7 @@
     "ios_store_url": "https://play.google.com/store/apps/details?id=com.wmsbianco"
   }
 }
+
 
 
 
