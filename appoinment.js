@@ -19,7 +19,7 @@
         <div style="margin-top:5px;">${description}</div>
         <button id="learnMoreBtn" 
           style="margin-top:10px; background:white; color:${color}; padding:5px 10px; border:none; border-radius:4px;">
-          Learn More
+          Learn More1
         </button>
       </div>
     `;
